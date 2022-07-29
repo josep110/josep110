@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josep110 (joseph rose)
+- 👋 Hi, I’m @josep110 (Joseph Rose)
 - 👀 I’m interested in software engineering, cryptography and mathematics!
 - 🌱 I’m currently learning C#, BeautifulSoup in Python and javaFX in my free time, and studying for a Bachelor's degree in Computer Science.
 - 💞️ I’m looking to collaborate on most software engineering projects - get in touch!
